@@ -204,6 +204,6 @@ function reset(){
   gameOver.visible = false;
   shrubsGroup.destroyEach();
   obstaclesGroup.destroyEach();
- 
+  score=0;
   
 }
